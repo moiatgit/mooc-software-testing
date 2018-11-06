@@ -76,3 +76,10 @@ target/
 *.class
 
 # End of https://www.gitignore.io/api/intellij
+
+# Specific stuff to ignore for Vim and Eclipse
+*~
+.*.swp
+.classpath
+.project
+.settings/
